@@ -1,7 +1,10 @@
-#include<iostream>
-using namespace std;
+package testgit;
 
-int main(){
-	cout<<"Hello world!"<<endl;
-	return 0;
+public class gittest {
+
+	public static void main(String args[])
+	{
+		System.out.println("hello git!!!");
+	}
+	
 }
